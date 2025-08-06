@@ -17,6 +17,7 @@
 - [Project Context & Business Problem](#-project-context--business-problem)
 - [The Analyst's Process](#-the-analysts-process)
 - [The 10 Business Requests, Solutions & Results](#-the-10-business-requests-solutions--results)
+- [Executive Summary of Key Insights](#-executive-summary-of-key-insights)
 - [Skills Showcase](#-skills-showcase)
 - [Repository Structure](#-repository-structure)
 - [Contact](#-contact)
@@ -108,6 +109,17 @@ The following ten business questions were presented by the stakeholders. Each re
     <summary>Click to View Result</summary>
     <img src="Results/Request_10.png" alt="Result for Request 10" width="600"/>
     </details>
+
+---
+
+## 🔑 Executive Summary of Key Insights
+
+This analysis of AtliQ Hardware's data yielded several actionable insights:
+
+* **Channel Dominance:** The 'Retailer' channel is the most critical revenue stream, contributing over 73% of the gross sales in the fiscal year 2021.
+* **Segment Growth:** The "Notebook" product segment showed the most significant increase in unique product offerings between 2020 and 2021.
+* **Top Performer:** The quarter with the highest sales volume in 2020 was Q2.
+* **High-Value Customers:** A specific group of top 5 customers in the Indian market received significantly higher average discounts than others, presenting an opportunity for margin optimization.
 
 ---
 
