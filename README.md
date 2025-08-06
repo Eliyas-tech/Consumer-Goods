@@ -49,61 +49,61 @@ This mindset of asking "why" before "how" is crucial for delivering valuable ins
 
 The following ten business questions were presented by the stakeholders. Each request is followed by a link to its standalone SQL query and a collapsible section containing a screenshot of the final result.
 
-1.  **Market Analysis:** Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region. **[View Solution](solutions/1_market_analysis_apac.sql)**
+1.  **Market Analysis:** Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region. **[View Solution](Solutions/1_market_analysis_apac.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_1.png" alt="Result for Request 1" width="600"/>
     </details>
 
-2.  **Product Performance:** What is the percentage of unique product increase in 2021 vs. 2020? **[View Solution](solutions/2_unique_product_increase.sql)**
+2.  **Product Performance:** What is the percentage of unique product increase in 2021 vs. 2020? **[View Solution](Solutions/2_unique_product_increase.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_2.png" alt="Result for Request 2" width="600"/>
     </details>
 
-3.  **Product Segmentation:** Provide a report with all the unique product counts for each segment, sorted in descending order. **[View Solution](solutions/3_product_count_by_segment.sql)**
+3.  **Product Segmentation:** Provide a report with all the unique product counts for each segment, sorted in descending order. **[View Solution](Solutions/3_product_count_by_segment.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_3.png" alt="Result for Request 3" width="600"/>
     </details>
 
-4.  **Segment Growth Analysis:** Which segment had the most increase in unique products from 2020 to 2021? **[View Solution](solutions/4_segment_growth_analysis.sql)**
+4.  **Segment Growth Analysis:** Which segment had the most increase in unique products from 2020 to 2021? **[View Solution](Solutions/4_segment_growth_analysis.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_4.png" alt="Result for Request 4" width="600"/>
     </details>
 
-5.  **Manufacturing Cost Analysis:** Get the products that have the highest and lowest manufacturing costs. **[View Solution](solutions/5_manufacturing_cost_extremes.sql)**
+5.  **Manufacturing Cost Analysis:** Get the products that have the highest and lowest manufacturing costs. **[View Solution](Solutions/5_manufacturing_cost_extremes.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_5.png" alt="Result for Request 5" width="600"/>
     </details>
 
-6.  **Customer Discount Analysis:** Generate a report of the top 5 customers who received the highest average pre-invoice discount percentage in fiscal year 2021 in the Indian market. **[View Solution](solutions/6_top_5_customer_discounts.sql)**
+6.  **Customer Discount Analysis:** Generate a report of the top 5 customers who received the highest average pre-invoice discount percentage in fiscal year 2021 in the Indian market. **[View Solution](Solutions/6_top_5_customer_discounts.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_6.png" alt="Result for Request 6" width="600"/>
     </details>
 
-7.  **Sales Trend Analysis:** Get the complete report of the Gross Sales Amount for the customer “Atliq Exclusive” for each month. **[View Solution](solutions/7_monthly_gross_sales_report.sql)**
+7.  **Sales Trend Analysis:** Get the complete report of the Gross Sales Amount for the customer “Atliq Exclusive” for each month. **[View Solution](Solutions/7_monthly_gross_sales_report.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_7.png" alt="Result for Request 7" width="600"/>
     </details>
 
-8.  **Quarterly Sales Analysis:** In which quarter of 2020 did AtliQ Hardware get the maximum total sold quantity? **[View Solution](solutions/8_max_quantity_quarter_2020.sql)**
+8.  **Quarterly Sales Analysis:** In which quarter of 2020 did AtliQ Hardware get the maximum total sold quantity? **[View Solution](Solutions/8_max_quantity_quarter_2020.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_8.png" alt="Result for Request 8" width="600"/>
     </details>
 
-9.  **Channel Performance:** Which channel helped to bring more gross sales in the fiscal year 2021 and what was its percentage contribution? **[View Solution](solutions/9_channel_contribution_2021.sql)**
+9.  **Channel Performance:** Which channel helped to bring more gross sales in the fiscal year 2021 and what was its percentage contribution? **[View Solution](Solutions/9_channel_contribution_2021.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_9.png" alt="Result for Request 9" width="600"/>
     </details>
 
-10. **Division Performance:** Get the Top 3 products in each division that have a high total sold quantity in the fiscal year 2021. **[View Solution](solutions/10_top_3_products_by_division.sql)**
+10. **Division Performance:** Get the Top 3 products in each division that have a high total sold quantity in the fiscal year 2021. **[View Solution](Solutions/10_top_3_products_by_division.sql)**
     <details>
     <summary>Click to View Result</summary>
     <img src="Results/Request_10.png" alt="Result for Request 10" width="600"/>
